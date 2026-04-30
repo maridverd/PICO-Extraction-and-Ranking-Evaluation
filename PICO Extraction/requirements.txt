@@ -1,0 +1,4 @@
+litellm
+requests
+python-dotenv
+tqdm
